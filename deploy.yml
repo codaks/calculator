@@ -19,4 +19,4 @@
         name: docker
         state: started
     - name: Running container
-      shell: docker run -it -d --name calculators chitranshkul07/calculators"
+      shell: docker run -it -d --name calculators chitranshkul07/calculators
